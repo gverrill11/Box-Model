@@ -1,27 +1,23 @@
 span {
     background-color: palevioletred;
     border: 1px solid black;
-    width: 500px;
+    width: 50px;
     padding: 50px;
-    margin: 50px;
 }
 
-
 h1 {
-    background-color: paleturquoise;
+    background-color: palegoldenrod;
     border: 1px solid black;
     width: 300px;
     padding: 50px;
     margin: 100px;
 }
 
-
 div {
     height: 200px;
     width: 200px;
-    background-color: olivedrab;
+    background-color: saddlebrown;
     border: 5px solid black;
     display: inline-block;
     margin: 50px;
-
 }
